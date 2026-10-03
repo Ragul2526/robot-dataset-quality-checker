@@ -44,7 +44,7 @@ My first version of the done-flag check assumed `next.done` is True only on the 
 
 ## How to run
 
-1. Open [`explore_dataset.ipynb`](explore_dataset.ipynb) in Google Colab.
+1. Open [`explore_dataset.ipynb`]([explore_dataset.ipynb](https://colab.research.google.com/github/Ragul2526/robot-dataset-quality-checker/blob/main/explore_dataset.ipynb)) in Google Colab.
 2. Run the cells in order. The notebook downloads only the metadata and the data table, not the video.
 3. Results are printed and written to `issues.csv`.
 
